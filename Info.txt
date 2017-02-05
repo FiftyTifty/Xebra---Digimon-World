@@ -1,0 +1,10 @@
+.map file, max 8 NPC entries
+Seperator between NPC entries: FF FF FF FF FF FF FF FF FF FF
+
+If first byte = 1C then NPC pointer is +14
+If first byte = 18 then NPC pointer is +10
+
+MAYO01 Digimon pointer = 028C5A
+Next 120 bytes are 2-byte sets of (X + Y + Z + Rotation + Unknown + Unknown)
+Number of waypoints @ pointer+64, waypoint data comes first in digimon structure
+Digimon info @ pointer+78 (120 in dec), first byte at offset is number of Digimon

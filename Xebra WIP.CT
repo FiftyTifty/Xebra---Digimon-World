@@ -5,13 +5,13 @@
       <ID>4</ID>
       <Description>"Player Digimon Stats"</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>2</ID>
           <Description>"Base Address"</Description>
-          <LastState Value="3" RealAddress="03130000"/>
+          <LastState Value="3" RealAddress="02ED0000"/>
           <VariableType>Byte</VariableType>
           <Address>"XEBRA.EXE"+0009B8D0</Address>
           <Offsets>
@@ -21,98 +21,98 @@
             <CheatEntry>
               <ID>3</ID>
               <Description>"Beginning Of Structure"</Description>
-              <LastState Value="255" RealAddress="0329C82E"/>
+              <LastState Value="255" RealAddress="0303C82E"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C82E</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>114</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="542" RealAddress="0329C830"/>
+                  <LastState Value="514" RealAddress="0303C830"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>115</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="544" RealAddress="0329C832"/>
+                  <LastState Value="528" RealAddress="0303C832"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>116</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="526" RealAddress="0329C834"/>
+                  <LastState Value="504" RealAddress="0303C834"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>117</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="682" RealAddress="0329C836"/>
+                  <LastState Value="648" RealAddress="0303C836"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>111</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="52" RealAddress="0329C83C"/>
+                  <LastState Value="47" RealAddress="0303C83C"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>112</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="47" RealAddress="0329C83D"/>
+                  <LastState Value="49" RealAddress="0303C83D"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>113</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="48" RealAddress="0329C83E"/>
+                  <LastState Value="55" RealAddress="0303C83E"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>118</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="5623" RealAddress="0329C840"/>
+                  <LastState Value="5473" RealAddress="0303C840"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>119</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="6298" RealAddress="0329C842"/>
+                  <LastState Value="6131" RealAddress="0303C842"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>120</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="4262" RealAddress="0329C844"/>
+                  <LastState Value="5465" RealAddress="0303C844"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>121</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="2399" RealAddress="0329C846"/>
+                  <LastState Value="5792" RealAddress="0303C846"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>122</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="24" RealAddress="0329C894"/>
+                  <LastState Value="18" RealAddress="0303C894"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>110</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="255" RealAddress="0329C84A"/>
+                  <LastState Value="255" RealAddress="0303C84A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
                 </CheatEntry>
@@ -126,13 +126,13 @@
       <ID>13</ID>
       <Description>"Misc"</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" Activated="1" RealAddress="00000000"/>
+      <LastState Value="" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>14</ID>
           <Description>"Base Address"</Description>
-          <LastState Value="3" RealAddress="03130000"/>
+          <LastState Value="3" RealAddress="02ED0000"/>
           <VariableType>Byte</VariableType>
           <Address>"XEBRA.EXE"+0009B8D0</Address>
           <Offsets>
@@ -142,21 +142,21 @@
             <CheatEntry>
               <ID>15</ID>
               <Description>"Minute Hand"</Description>
-              <LastState Value="20" RealAddress="0326C088"/>
+              <LastState Value="1" RealAddress="0300C088"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+0013C088 </Address>
             </CheatEntry>
             <CheatEntry>
               <ID>18</ID>
               <Description>"Hour Hand"</Description>
-              <LastState Value="10" RealAddress="0326C08A"/>
+              <LastState Value="9" RealAddress="0300C08A"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+0013C08A</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>16</ID>
               <Description>"Digivolution"</Description>
-              <LastState Value="255 255" RealAddress="0326BFE0"/>
+              <LastState Value="255 255" RealAddress="0300BFE0"/>
               <VariableType>Array of byte</VariableType>
               <ByteLength>2</ByteLength>
               <Address>+13BFE0</Address>
@@ -164,14 +164,14 @@
             <CheatEntry>
               <ID>17</ID>
               <Description>"Current Digimon"</Description>
-              <LastState Value="48" RealAddress="0329C7F8"/>
+              <LastState Value="14" RealAddress="0303C7F8"/>
               <VariableType>Byte</VariableType>
               <Address>+16C7F8</Address>
             </CheatEntry>
             <CheatEntry>
               <ID>147</ID>
               <Description>"Player - X Pos"</Description>
-              <LastState Value="674" RealAddress="0329C7CE"/>
+              <LastState Value="132" RealAddress="0303C7CE"/>
               <ShowAsSigned>1</ShowAsSigned>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C7CE</Address>
@@ -179,7 +179,7 @@
             <CheatEntry>
               <ID>148</ID>
               <Description>"Player - Y Pos"</Description>
-              <LastState Value="-283" RealAddress="0329C7D6"/>
+              <LastState Value="1792" RealAddress="0303C7D6"/>
               <ShowAsSigned>1</ShowAsSigned>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C7D6</Address>
@@ -187,7 +187,7 @@
             <CheatEntry>
               <ID>149</ID>
               <Description>"Pause Game"</Description>
-              <LastState Value="0" RealAddress="0326C008"/>
+              <LastState Value="0" RealAddress="0300C008"/>
               <VariableType>Byte</VariableType>
               <Address>+13C008</Address>
             </CheatEntry>
@@ -199,13 +199,13 @@
       <ID>20</ID>
       <Description>"Loaded NPCs"</Description>
       <Options moHideChildren="1"/>
-      <LastState Value="" RealAddress="00000000"/>
+      <LastState Value="" Activated="1" RealAddress="00000000"/>
       <GroupHeader>1</GroupHeader>
       <CheatEntries>
         <CheatEntry>
           <ID>21</ID>
           <Description>"Base Address"</Description>
-          <LastState Value="3" RealAddress="03130000"/>
+          <LastState Value="3" RealAddress="02ED0000"/>
           <VariableType>Byte</VariableType>
           <Address>"XEBRA.EXE"+0009B8D0</Address>
           <Offsets>
@@ -216,98 +216,98 @@
               <ID>22</ID>
               <Description>"First"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="0" RealAddress="0329C74A"/>
+              <LastState Value="0" RealAddress="0303C74A"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C74A</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>23</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="514" RealAddress="0329C74C"/>
+                  <LastState Value="514" RealAddress="0303C74C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>24</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="528" RealAddress="0329C74E"/>
+                  <LastState Value="528" RealAddress="0303C74E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>25</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="504" RealAddress="0329C750"/>
+                  <LastState Value="504" RealAddress="0303C750"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>26</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="648" RealAddress="0329C752"/>
+                  <LastState Value="648" RealAddress="0303C752"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>123</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="47" RealAddress="0329C758"/>
+                  <LastState Value="47" RealAddress="0303C758"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>124</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="49" RealAddress="0329C759"/>
+                  <LastState Value="49" RealAddress="0303C759"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>125</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="55" RealAddress="0329C75A"/>
+                  <LastState Value="55" RealAddress="0303C75A"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>27</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="5473" RealAddress="0329C75C"/>
+                  <LastState Value="5473" RealAddress="0303C75C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>30</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="6131" RealAddress="0329C75E"/>
+                  <LastState Value="6131" RealAddress="0303C75E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>29</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="5473" RealAddress="0329C760"/>
+                  <LastState Value="5473" RealAddress="0303C760"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>28</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="6131" RealAddress="0329C762"/>
+                  <LastState Value="6131" RealAddress="0303C762"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>94</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="0" RealAddress="0329C7B0"/>
+                  <LastState Value="0" RealAddress="0303C7B0"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>108</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="511" RealAddress="0329C766"/>
+                  <LastState Value="511" RealAddress="0303C766"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
                 </CheatEntry>
@@ -317,100 +317,116 @@
               <ID>31</ID>
               <Description>"Second"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329C8AE"/>
+              <LastState Value="255" RealAddress="0303C8AE"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C8AE</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>32</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="510" RealAddress="0329C8B0"/>
+                  <LastState Value="70" RealAddress="0303C8B0"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>33</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="300" RealAddress="0329C8B2"/>
+                  <LastState Value="100" RealAddress="0303C8B2"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>34</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="70" RealAddress="0329C8B4"/>
+                  <LastState Value="50" RealAddress="0303C8B4"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>35</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="150" RealAddress="0329C8B6"/>
+                  <LastState Value="70" RealAddress="0303C8B6"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>126</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="46" RealAddress="0329C8BC"/>
+                  <LastState Value="46" RealAddress="0303C8BC"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>127</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="49" RealAddress="0329C8BD"/>
+                  <LastState Value="47" RealAddress="0303C8BD"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>128</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="50" RealAddress="0329C8BE"/>
+                  <LastState Value="255" RealAddress="0303C8BE"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>36</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="2100" RealAddress="0329C8C0"/>
+                  <LastState Value="300" RealAddress="0303C8C0"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>37</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="3200" RealAddress="0329C8C2"/>
+                  <LastState Value="400" RealAddress="0303C8C2"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>38</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="2100" RealAddress="0329C8C4"/>
+                  <LastState Value="300" RealAddress="0303C8C4"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>39</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="3200" RealAddress="0329C8C6"/>
+                  <LastState Value="400" RealAddress="0303C8C6"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>99</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="257" RealAddress="0329C914"/>
+                  <LastState Value="1" RealAddress="0303C914"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>102</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="0" RealAddress="0329C8CA"/>
+                  <LastState Value="511" RealAddress="0303C8CA"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>150</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="459" RealAddress="0303C88A"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>151</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="-1504" RealAddress="0303C892"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -418,100 +434,116 @@
               <ID>40</ID>
               <Description>"Third"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329C916"/>
+              <LastState Value="255" RealAddress="0303C916"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C916</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>41</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="510" RealAddress="0329C918"/>
+                  <LastState Value="70" RealAddress="0303C918"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>42</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="300" RealAddress="0329C91A"/>
+                  <LastState Value="100" RealAddress="0303C91A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>43</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="70" RealAddress="0329C91C"/>
+                  <LastState Value="50" RealAddress="0303C91C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>44</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="150" RealAddress="0329C91E"/>
+                  <LastState Value="70" RealAddress="0303C91E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>129</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="46" RealAddress="0329C924"/>
+                  <LastState Value="46" RealAddress="0303C924"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>130</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="49" RealAddress="0329C925"/>
+                  <LastState Value="47" RealAddress="0303C925"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>131</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="50" RealAddress="0329C926"/>
+                  <LastState Value="255" RealAddress="0303C926"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>45</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="2100" RealAddress="0329C928"/>
+                  <LastState Value="300" RealAddress="0303C928"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>46</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="3200" RealAddress="0329C92A"/>
+                  <LastState Value="400" RealAddress="0303C92A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>47</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="2100" RealAddress="0329C92C"/>
+                  <LastState Value="300" RealAddress="0303C92C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>48</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="3200" RealAddress="0329C92E"/>
+                  <LastState Value="400" RealAddress="0303C92E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>98</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="1" RealAddress="0329C97C"/>
+                  <LastState Value="1" RealAddress="0303C97C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>109</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="0" RealAddress="0329C932"/>
+                  <LastState Value="511" RealAddress="0303C932"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>153</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="523" RealAddress="0303C8FA"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>152</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="-80" RealAddress="0303C8F2"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -519,100 +551,116 @@
               <ID>49</ID>
               <Description>"Fourth"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329C97E"/>
+              <LastState Value="255" RealAddress="0303C97E"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16C97E</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>50</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="510" RealAddress="0329C980"/>
+                  <LastState Value="30" RealAddress="0303C980"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>51</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="300" RealAddress="0329C982"/>
+                  <LastState Value="30" RealAddress="0303C982"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>52</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="70" RealAddress="0329C984"/>
+                  <LastState Value="30" RealAddress="0303C984"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>53</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="150" RealAddress="0329C986"/>
+                  <LastState Value="50" RealAddress="0303C986"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>132</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="46" RealAddress="0329C98C"/>
+                  <LastState Value="46" RealAddress="0303C98C"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>133</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="49" RealAddress="0329C98D"/>
+                  <LastState Value="51" RealAddress="0303C98D"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>134</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="50" RealAddress="0329C98E"/>
+                  <LastState Value="255" RealAddress="0303C98E"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>54</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="2100" RealAddress="0329C990"/>
+                  <LastState Value="400" RealAddress="0303C990"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>55</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="3200" RealAddress="0329C992"/>
+                  <LastState Value="300" RealAddress="0303C992"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>56</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="2100" RealAddress="0329C994"/>
+                  <LastState Value="400" RealAddress="0303C994"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>57</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="3200" RealAddress="0329C996"/>
+                  <LastState Value="300" RealAddress="0303C996"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>97</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="256" RealAddress="0329C9E4"/>
+                  <LastState Value="257" RealAddress="0303C9E4"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>107</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="0" RealAddress="0329C99A"/>
+                  <LastState Value="0" RealAddress="0303C99A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>155</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="589" RealAddress="0303C962"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>154</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="1103" RealAddress="0303C95A"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -620,100 +668,116 @@
               <ID>58</ID>
               <Description>"Fifth"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329CA4E"/>
+              <LastState Value="255" RealAddress="0303CA4E"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16CA4E</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>59</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="520" RealAddress="0329CA50"/>
+                  <LastState Value="70" RealAddress="0303CA50"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>60</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="270" RealAddress="0329CA52"/>
+                  <LastState Value="50" RealAddress="0303CA52"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>61</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="170" RealAddress="0329CA54"/>
+                  <LastState Value="50" RealAddress="0303CA54"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>62</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="200" RealAddress="0329CA56"/>
+                  <LastState Value="70" RealAddress="0303CA56"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>135</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="47" RealAddress="0329CA5C"/>
+                  <LastState Value="46" RealAddress="0303CA5C"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>136</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="48" RealAddress="0329CA5D"/>
+                  <LastState Value="47" RealAddress="0303CA5D"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>137</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="49" RealAddress="0329CA5E"/>
+                  <LastState Value="48" RealAddress="0303CA5E"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>63</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="2300" RealAddress="0329CA60"/>
+                  <LastState Value="300" RealAddress="0303CA60"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>64</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="3800" RealAddress="0329CA62"/>
+                  <LastState Value="500" RealAddress="0303CA62"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>65</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="2300" RealAddress="0329CA64"/>
+                  <LastState Value="300" RealAddress="0303CA64"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>66</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="3800" RealAddress="0329CA66"/>
+                  <LastState Value="500" RealAddress="0303CA66"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>96</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="256" RealAddress="0329CAB4"/>
+                  <LastState Value="0" RealAddress="0303CAB4"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>106</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="511" RealAddress="0329CA6A"/>
+                  <LastState Value="0" RealAddress="0303CA6A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>157</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="-798" RealAddress="0303CA32"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>156</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="93" RealAddress="0303CA2A"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -721,100 +785,116 @@
               <ID>67</ID>
               <Description>"Sixth"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329CAB6"/>
+              <LastState Value="255" RealAddress="0303CAB6"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16CAB6</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>68</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="520" RealAddress="0329CAB8"/>
+                  <LastState Value="610" RealAddress="0303CAB8"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>69</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="280" RealAddress="0329CABA"/>
+                  <LastState Value="320" RealAddress="0303CABA"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>70</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="170" RealAddress="0329CABC"/>
+                  <LastState Value="340" RealAddress="0303CABC"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>71</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="100" RealAddress="0329CABE"/>
+                  <LastState Value="200" RealAddress="0303CABE"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>138</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="46" RealAddress="0329CAC4"/>
+                  <LastState Value="46" RealAddress="0303CAC4"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>139</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="49" RealAddress="0329CAC5"/>
+                  <LastState Value="47" RealAddress="0303CAC5"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>140</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="51" RealAddress="0329CAC6"/>
+                  <LastState Value="48" RealAddress="0303CAC6"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>72</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="2300" RealAddress="0329CAC8"/>
+                  <LastState Value="4400" RealAddress="0303CAC8"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>73</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="3000" RealAddress="0329CACA"/>
+                  <LastState Value="3900" RealAddress="0303CACA"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>74</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="2300" RealAddress="0329CACC"/>
+                  <LastState Value="4400" RealAddress="0303CACC"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>75</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="3000" RealAddress="0329CACE"/>
+                  <LastState Value="3900" RealAddress="0303CACE"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>95</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="256" RealAddress="0329CB1C"/>
+                  <LastState Value="1" RealAddress="0303CB1C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>105</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="511" RealAddress="0329CAD2"/>
+                  <LastState Value="0" RealAddress="0303CAD2"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>159</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="0" RealAddress="0303CA9A"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>158</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="0" RealAddress="0303CA92"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -822,100 +902,116 @@
               <ID>76</ID>
               <Description>"Seventh"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329CB1E"/>
+              <LastState Value="255" RealAddress="0303CB1E"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16CB1E</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>77</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="520" RealAddress="0329CB20"/>
+                  <LastState Value="50" RealAddress="0303CB20"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>78</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="280" RealAddress="0329CB22"/>
+                  <LastState Value="50" RealAddress="0303CB22"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>79</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="170" RealAddress="0329CB24"/>
+                  <LastState Value="50" RealAddress="0303CB24"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>80</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="100" RealAddress="0329CB26"/>
+                  <LastState Value="50" RealAddress="0303CB26"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>141</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="46" RealAddress="0329CB2C"/>
+                  <LastState Value="46" RealAddress="0303CB2C"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>142</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="49" RealAddress="0329CB2D"/>
+                  <LastState Value="51" RealAddress="0303CB2D"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>143</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="51" RealAddress="0329CB2E"/>
+                  <LastState Value="53" RealAddress="0303CB2E"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>81</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="2300" RealAddress="0329CB30"/>
+                  <LastState Value="500" RealAddress="0303CB30"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>82</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="3000" RealAddress="0329CB32"/>
+                  <LastState Value="500" RealAddress="0303CB32"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>83</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="2300" RealAddress="0329CB34"/>
+                  <LastState Value="500" RealAddress="0303CB34"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>84</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="3000" RealAddress="0329CB36"/>
+                  <LastState Value="500" RealAddress="0303CB36"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>100</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="1" RealAddress="0329CB84"/>
+                  <LastState Value="1" RealAddress="0303CB84"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>104</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="511" RealAddress="0329CB3A"/>
+                  <LastState Value="0" RealAddress="0303CB3A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>161</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="1113" RealAddress="0303CB02"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>160</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="-128" RealAddress="0303CAFA"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
@@ -923,100 +1019,116 @@
               <ID>85</ID>
               <Description>"Eighth"</Description>
               <Options moAllowManualCollapseAndExpand="1"/>
-              <LastState Value="255" RealAddress="0329CB86"/>
+              <LastState Value="255" RealAddress="0303CB86"/>
               <VariableType>2 Bytes</VariableType>
               <Address>+16CB86</Address>
               <CheatEntries>
                 <CheatEntry>
                   <ID>86</ID>
                   <Description>"Offense"</Description>
-                  <LastState Value="50" RealAddress="0329CB88"/>
+                  <LastState Value="50" RealAddress="0303CB88"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+2</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>87</ID>
                   <Description>"Defence"</Description>
-                  <LastState Value="50" RealAddress="0329CB8A"/>
+                  <LastState Value="50" RealAddress="0303CB8A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+4</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>88</ID>
                   <Description>"Speed"</Description>
-                  <LastState Value="50" RealAddress="0329CB8C"/>
+                  <LastState Value="50" RealAddress="0303CB8C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+6</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>89</ID>
                   <Description>"Brains"</Description>
-                  <LastState Value="50" RealAddress="0329CB8E"/>
+                  <LastState Value="50" RealAddress="0303CB8E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+8</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>144</ID>
                   <Description>"First Attack"</Description>
-                  <LastState Value="46" RealAddress="0329CB94"/>
+                  <LastState Value="46" RealAddress="0303CB94"/>
                   <VariableType>Byte</VariableType>
                   <Address>+E</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>145</ID>
                   <Description>"Second Attack"</Description>
-                  <LastState Value="51" RealAddress="0329CB95"/>
+                  <LastState Value="51" RealAddress="0303CB95"/>
                   <VariableType>Byte</VariableType>
                   <Address>+F</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>146</ID>
                   <Description>"Third Attack"</Description>
-                  <LastState Value="53" RealAddress="0329CB96"/>
+                  <LastState Value="53" RealAddress="0303CB96"/>
                   <VariableType>Byte</VariableType>
                   <Address>+10</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>90</ID>
                   <Description>"Max HP"</Description>
-                  <LastState Value="500" RealAddress="0329CB98"/>
+                  <LastState Value="500" RealAddress="0303CB98"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+12</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>91</ID>
                   <Description>"Max MP"</Description>
-                  <LastState Value="500" RealAddress="0329CB9A"/>
+                  <LastState Value="500" RealAddress="0303CB9A"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+14</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>92</ID>
                   <Description>"CurrentHP"</Description>
-                  <LastState Value="500" RealAddress="0329CB9C"/>
+                  <LastState Value="500" RealAddress="0303CB9C"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+16</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>93</ID>
                   <Description>"Current MP"</Description>
-                  <LastState Value="500" RealAddress="0329CB9E"/>
+                  <LastState Value="500" RealAddress="0303CB9E"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+18</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>101</ID>
                   <Description>"Defeated?"</Description>
-                  <LastState Value="0" RealAddress="0329CBEC"/>
+                  <LastState Value="0" RealAddress="0303CBEC"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+66</Address>
                 </CheatEntry>
                 <CheatEntry>
                   <ID>103</ID>
                   <Description>"Knocked Down?"</Description>
-                  <LastState Value="0" RealAddress="0329CBA2"/>
+                  <LastState Value="0" RealAddress="0303CBA2"/>
                   <VariableType>2 Bytes</VariableType>
                   <Address>+1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>163</ID>
+                  <Description>"Pos - Y"</Description>
+                  <LastState Value="727" RealAddress="0303CB6A"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-1C</Address>
+                </CheatEntry>
+                <CheatEntry>
+                  <ID>162</ID>
+                  <Description>"Pos - X"</Description>
+                  <LastState Value="1421" RealAddress="0303CB62"/>
+                  <ShowAsSigned>1</ShowAsSigned>
+                  <VariableType>2 Bytes</VariableType>
+                  <Address>-24</Address>
                 </CheatEntry>
               </CheatEntries>
             </CheatEntry>
